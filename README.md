@@ -1,8 +1,8 @@
-#ASCII Warp Tool
+#A SCII Warp Tool
 
 A Rust-based tool that converts images into animated ASCII art. Supports warping and time-based distortion to create moving, fluid ASCII visuals rendered in the browser.
 
-#Usage
+# Usage
 
 Start a local server:
 
@@ -14,5 +14,5 @@ cargo run
 
 Open index.html in your browser to view the animated ASCII output.
 
-#Custom Images
+# Custom Images
 Drop an image into the project folder, update the image filename in main.rs, then rerun the program.
