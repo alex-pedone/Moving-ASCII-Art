@@ -4,7 +4,7 @@ A Rust tool that converts images into animated ASCII art. Supports warping and d
 
 # Usage
 
-Start a local server:
+Start a local server in a new terminal:
 
 python -m http.server 8000
 
