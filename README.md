@@ -12,7 +12,7 @@ Run the Rust generator:
 
 cargo run
 
-Open index.html in your browser to view the animated ASCII output.
+Open [index.html](http://localhost:8000/) in your browser to view the animated ASCII output.
 
 # Custom Images
 Drop an image into the project folder, update the image filename in main.rs, then rerun the program.
